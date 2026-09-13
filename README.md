@@ -55,9 +55,9 @@ O programa foi construído seguindo boas práticas de desenvolvimento (PEP 8), m
 
 ## 🔗 Link do Repositório Completo
 
-- **Repositório:** [Acessar Projeto no GitHub](https://github.com/matheusaafranco-cpu/Agenda6_DS_I)
+- **Repositório:** [Acessar Projeto no GitHub](https://github.com/matheusaafranco-cpu/matheus_de_almeida_franco_Ag6_DS_)
 
----
+---'
 
 ## 🛠️ Tecnologias
 - **Python 3**
