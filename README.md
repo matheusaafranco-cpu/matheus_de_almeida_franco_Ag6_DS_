@@ -55,7 +55,7 @@ O programa foi construído seguindo boas práticas de desenvolvimento (PEP 8), m
 
 ## 🔗 Link do Repositório Completo
 
-- **Repositório:** [Acessar Projeto no GitHub](https://github.com/seu-usuario/seu-repositorio)
+- **Repositório:** [Acessar Projeto no GitHub](https://github.com/matheusaafranco-cpu/Agenda6_DS_I)
 
 ---
 
